@@ -5,9 +5,11 @@
 - 🤙🏻 Contact : pmj1459@gmail.com
 
 ## Experience
-- 프로보노 ICT 멘토링 - 은상(정보기획통신평가원장상) (2022.04 ~ 2022.11)
-- 32nd GO SOPT - Android part (2023.03 ~ 2023.07)
-- 32nd GO SOPT - APPJAM DEMODAY 대상 (YELL:0)
 - YELL:0 - Android Developer (2023.06~ ) [Play Store download](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
+- 32nd GO SOPT - Android part / APPJAM DEMODAY 대상 (YELL:0) (2023.03 ~ 2023.07)
+- 프로보노 ICT 멘토링 - 은상(정보기획통신평가원장상) (2022.04 ~ 2022.11)
+
+
+
 
 
