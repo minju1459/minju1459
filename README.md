@@ -3,7 +3,7 @@
 </a>
 
 ### **Career**
-- [Aswemake](https://www.aswemake.com/) - Android Enginner <sub><sup>2024.12 - ing</sup></sub>
+- [Aswemake](https://www.aswemake.com/) - Android Engineer <sub><sup>2024.12 - ing</sup></sub>
 
 ### **Experience**
 - [Probono ICT Mentoring](https://www.hanium.or.kr/portal/index.do) |  Plan, Design, Android Developer <sub><sup>2022.04 ~ 2022.11</sup></sub>   
