@@ -1,12 +1,11 @@
-## 🦔 It's Me !
-- 📮 How to reach me : pmj1459@gmail.com
-- [Probono ICT Mentoring](https://www.hanium.or.kr/portal/index.do) - 정보기획통신평가원장상 (2022.04 ~ 2022.11)
-- [GO SOPT 32nd](https://www.sopt.org/) - Android YB Member / APPJAM DEMODAY 대상 (YELL:0) (2023.03 ~ 2023.07)
-- [YELL:0](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR) - Android Developer (2023.06~ )
-- [Depromeet 15th](https://www.depromeet.com/) - Android Member / DEMODAY 대상 (SPOT!) (2024.06 ~ )
-- [SPOT!](https://play.google.com/store/apps/details?id=com.dpm.spot) - Android Developer (2024.07~ )
+<a href="https://github.com/devxb/gitanimals">
+ <img src="https://render.gitanimals.org/farms/{minju1459}" width="1000" height="200"/>
+</a>
 
+### **Career**
+- [Aswemake](https://www.aswemake.com/) - Android Enginner <sub><sup>2024.12 - ing</sup></sub>
 
-
-
-
+### **Experience**
+- [Probono ICT Mentoring](https://www.hanium.or.kr/portal/index.do) |  Plan, Design, Android Developer <sub><sup>2022.04 ~ 2022.11</sup></sub>   
+- [SOPT 32nd](https://www.sopt.org/) | Android Member <sub><sup>2023.03 ~ 2023.07</sup></sub>   
+- [Depromeet 15th](https://www.depromeet.com/) Android Member <sub><sup>2024.06 - 2024.09</sup></sub>
