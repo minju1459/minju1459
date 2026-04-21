@@ -11,7 +11,7 @@
 - [Depromeet 15th](https://www.depromeet.com/) | Android Member <sub><sup>2024.06 - 2024.09</sup></sub>
 
 ### **Project**
-- [SPOT!](https://github.com/depromeet/SPOT-Android) | Android Developer | Demo Day 대상<sub><sup>2024.6 ~ 2024.9</sup></sub>
+- [SPOT!](https://github.com/depromeet/SPOT-Android) | Android Developer | Demo Day 대상 |<sub><sup> 2024.6 ~ 2024.9</sup></sub>
 - [YELL:O](https://github.com/team-yello/YELLO-Android) | Android Developer | App Jam 대상 | 다운로드 수 약 31,000명 | <sub><sup>2023.7 ~ 2024.11</sup></sub>
 - [Instagram Re-design](https://github.com/CDS-Mobile1/CDS-Instagram-Android) | Android Developer <sub><sup>2023.7 ~ 2023.5</sup></sub>
 - [JAMO](https://github.com/minju1459/Probono_JaMo) | Plan, Design, Android Developer <sub><sup>2022.4 ~ 2022.12</sup></sub>
